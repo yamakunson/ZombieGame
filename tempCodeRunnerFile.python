@@ -1,0 +1,5 @@
+a = 1
+def change(b):
+    b.value = 2
+change(a)
+print(a)
